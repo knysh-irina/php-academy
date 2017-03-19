@@ -2,4 +2,4 @@
 
 $str = "PHP";
 
-echo strtolower($str);
+echo strtolower($str); 
