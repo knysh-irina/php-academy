@@ -1,12 +1,16 @@
 
 <?php
-$row = 3;
-$cols = 4;
-$colors = array('red','yellow','blue','gray','maroon','brown','green');
-$arr = [];
-for ($i =0 ; $i<= $row ; $i++){
-    for ($j =0 ; $j<= $cols ; $j++){
-        array_push($arr[[$i][$j]],  rand(1, 40))  ;
+
+
+$mat = [[0, 0, 0], [0, 1, 2], [0, 2, 4]];
+
+for ($i = 0; $i < 3; $i++) {
+    for ($j = 0; $j < 3; $j++) {
+        $kat[$i][$j] = $mat[$j][$i];
+
+
     }
+
 }
-print_r($arr);
+
+print_r($kat);

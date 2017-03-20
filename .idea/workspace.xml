@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8027f742-9d6c-4a06-be0f-954a16c0af8f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/2index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/3index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/10.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/11.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/12.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/13.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/14.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/15.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/18.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/19.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/20.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/23.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/24.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/25.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/26.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/6.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/8.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/9.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ДЗ от 14.03.2017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ДЗ от 14.03.2017/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ДЗ от 14.03.2017/index.php" afterPath="$PROJECT_DIR$/ДЗ от 14.03.2017/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/28.php" afterPath="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/28.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,22 +18,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="27.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="28.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/28.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ДЗ от 14.03.2017/4index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -99,8 +66,8 @@
         <option value="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/24.php" />
         <option value="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/25.php" />
         <option value="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/26.php" />
-        <option value="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/28.php" />
         <option value="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php" />
+        <option value="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/28.php" />
       </list>
     </option>
   </component>
@@ -132,8 +99,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,20 +169,20 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.27.php">
-    <configuration default="false" name="23.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/23.php">
-      <method />
-    </configuration>
-    <configuration default="false" name="24.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/24.php">
-      <method />
-    </configuration>
-    <configuration default="false" name="25.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/25.php">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.28.php">
     <configuration default="false" name="26.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/26.php">
       <method />
     </configuration>
     <configuration default="false" name="28.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:56565/php-academy/DZ 16.03.2017/arrays_loops_tasks/28.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="27.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="27.php (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:59037/php-academy/DZ 16.03.2017/arrays_loops_tasks/27.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="28.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/28.php">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -278,20 +245,20 @@
       <method />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="PHP Script.23.php" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.24.php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.25.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.26.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.27.php" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.28.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.27.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.26.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.28.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.27.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.27.php (1)" />
+      <item index="5" class="java.lang.String" itemvalue="PHP Script.28.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.28.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.26.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.25.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.24.php" />
-        <item index="4" class="java.lang.String" itemvalue="PHP Script.23.php" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.28.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.27.php (1)" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.27.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.28.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.26.php" />
       </list>
     </recent_temporary>
   </component>
@@ -307,23 +274,24 @@
       <updated>1489918777175</updated>
       <workItem from="1489918778554" duration="1195000" />
       <workItem from="1489992132201" duration="20238000" />
+      <workItem from="1490027358192" duration="1844000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21433000" />
+    <option name="totallyTimeSpent" value="23277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="468" y="8" width="1131" height="841" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22408964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22782446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2838983" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33898306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -370,6 +338,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1490028889959" expanded="true" signature="469:567" ph="..." />
+            <marker date="1490028889959" expanded="true" signature="503:521" ph="..." />
+            <marker date="1490028889959" expanded="true" signature="503:527" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ДЗ от 14.03.2017/4index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -586,37 +574,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/3index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/2index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1490002729660" expanded="true" signature="586:608" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/28.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DZ2/27.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +604,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ДЗ от 14.03.2017/4index.php">
+    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/3index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1490028889959" expanded="true" signature="469:567" ph="..." />
+            <marker date="1490028889959" expanded="true" signature="503:521" ph="..." />
+            <marker date="1490028889959" expanded="true" signature="503:527" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/2index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <marker date="1490024659915" expanded="true" signature="586:608" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ДЗ от 14.03.2017/2index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -652,10 +642,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/27.php">
+    <entry file="file://$PROJECT_DIR$/ДЗ от 14.03.2017/3index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ДЗ от 14.03.2017/4index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DZ 16.03.2017/arrays_loops_tasks/28.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding />
         </state>
       </provider>
