@@ -549,7 +549,7 @@ height: 400px;">
           }
 
      if (isset($_GET['save'])){
-         $f = fopen($file, 'a');
+         $f = fopen($file, 'w');
          $str_red = $_GET['save'];
          echo $str_red;
          fwrite($f, $str_red. PHP_EOL);
