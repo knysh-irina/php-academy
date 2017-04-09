@@ -1,0 +1,27 @@
+::1  C:\xampp\htdocs\file_manager Logged in
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager Opening file for editing
+::1 irina C:\xampp\htdocs\file_manager Opening file for editing
+::1 irina C:\xampp\htdocs\file_manager Opening file for editing
+::1 irina C:\xampp\htdocs\file_manager Opening file for editing
+::1 irina C:\xampp\htdocs\file_manager Opening file for editing
+::1 irina C:\xampp\htdocs\file_manager Opening file for editing
+::1 irina C:\xampp\htdocs\file_manager chmod
+::1 irina C:\xampp\htdocs\file_manager Create a file
+::1 irina C:\xampp\htdocs\file_manager Opening file for editing
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1  C:\xampp\htdocs\file_manager Logged in
+::1  C:\xampp\htdocs\file_manager Logged in
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager Opening file for editing
+::1 irina C:\xampp\htdocs\file_manager  Change directory
+::1 irina C:\xampp\htdocs\file_manager  Change directory
