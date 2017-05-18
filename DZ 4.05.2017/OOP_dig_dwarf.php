@@ -1,17 +1,21 @@
 <?php
 
+
 interface Digable
 {
     public function dig();
 }
 
-interface abbleToDig{
-    public function weaponInArms();
+interface abbleToDig
+{
+    public function canDig();
 }
+
+
 
 abstract class Char
 {
-
+    private $i = 0;
     protected $name;
     private $str = 10;
     private $dex = 10;
@@ -19,7 +23,7 @@ abstract class Char
     private $weapon = "";
     private $skills = [
         'fishing' => 30,
-        'mining' => 30,
+        'mining' => 75,
         'lumberjacking' => 30
     ];
 
@@ -48,13 +52,40 @@ abstract class Char
         return $this->attackPower;
     }
 
-   public function __construct($name)
-   {
-       $this->name = $name;
-   }
-   public function attack(){
+    public function __construct($name)
+    {
+        $this->name = $name;
+    }
+
+    public function attack()
+    {
         $attackPower = $this->getWeapon()->getAttackPower();
-   }
+    }
+
+
+
+    function incSkill($skill)
+    {
+
+        $getSkill = $this->getSkillValue($skill);
+
+        if ($getSkill < 45) {
+            $this->incrementor($skill);
+
+        } elseif ($getSkill < 80) {
+
+           $this->i++;
+            if ($this->i == 3) {
+                $this->incrementor($skill);
+            }
+        } elseif ($getSkill <= 100) {
+
+            $this->i++;
+            if ($this->i == 10) {
+                $this->incrementor($skill);
+            }
+        }
+    }
 
 
 }
@@ -80,10 +111,18 @@ abstract class Katana extends Weapon implements abbleToDig
 {
     const POWER = 50;
 }
+
 abstract class Lopata extends Weapon implements abbleToDig
 {
+    public function canDig()
+    {
+        echo "Eho!";
+    }
+
     const POWER = 40;
+
 }
+
 abstract class Kirka extends Weapon
 {
     const POWER = 20;
@@ -94,20 +133,6 @@ class Dwarf extends Char implements Digable
     public function dig()
     {
         echo "I can dig";
-        $i = 0;
-        if ($this->getSkillValue('mining')<45  ){
-            $this->incrementor('mining');
-        } elseif ($this->getSkillValue('mining')<80){
-            $i++;
-            if ($i == 3){
-                $this->incrementor('mining');
-            }
-        } elseif ($this->getSkillValue('mining')<=100){
-            $i++;
-            if ($i == 10){
-                $this->incrementor('mining');
-            }
-        }
     }
 }
 
@@ -124,14 +149,18 @@ class Human extends Char implements Digable
 
 $Human = new Human("Jeck");
 
-$Dwarf->setWeapon('Kirka');
+$Dwarf->setWeapon('Lopata');
 if ($Dwarf instanceof Digable) {
-    if ($Dwarf->getWeapon() instanceof abbleToDig ){
+    if ($Dwarf->getWeapon() instanceof abbleToDig) {
         $Dwarf->dig();
-    } else {echo $Dwarf->getWeapon(). " can not to dig "; }
+    } else {
+        echo $Dwarf->getWeapon() . " can not dig ";
+    }
 
 } else {
     echo "Not implemented";
 }
 
 
+$Dwarf->incSkill('mining');
+echo $Dwarf->getSkillValue('mining');
