@@ -8,7 +8,7 @@ class Main
     {
         return [
             'common' => [
-                'base_url' => '/new/mvc/'
+                'base_url' => '/mvc/'
             ],
             'database' => [
                 'user' => 'root',

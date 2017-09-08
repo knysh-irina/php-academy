@@ -129,6 +129,7 @@ class ItemController extends BaseController
             echo "Sorry, your file was not uploaded.";
 // if everything is ok, try to upload file
         } else {
+
             if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
                 echo "The file ". basename( $_FILES["fileToUpload"]["name"]). " has been uploaded.";
             } else {
@@ -140,8 +141,9 @@ class ItemController extends BaseController
         $model = $this->getModel('items');
         $data = $_POST;
         $img =  $baseUrl."uploads/".basename( $_FILES["fileToUpload"]["name"]);
-            $model->addTask($data, $img);
-         header("Location: {$baseUrl}item/showAll?page=1  ");
+
+        $model->addTask($data, $img);
+       //  header("Location: {$baseUrl}item/showAll?page=1  ");
 
     }
 
